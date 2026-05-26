@@ -1,6 +1,6 @@
-# GCDA Growth Blueprint
+# GCDA Preschool Market Recovery Control Panel
 
-Client-facing organic growth microsite for Gulf Coast Dance Alliance. Includes SEO/UX/social audit narrative, three-day site-repair sprint, 30/60/90 growth plan, ElevenLabs voice-agent option, creative briefs, and British-female narrated explainer video.
+Client-facing control panel for recovering GCDA's Spanish Fort ages 2–6 dance market share. Includes SWOT, goal, immediate action plan, website/social creative strategy, pricing test hypothesis, and weekly control metrics.
 
 ## Live URLs
 
