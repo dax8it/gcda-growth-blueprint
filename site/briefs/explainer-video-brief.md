@@ -5,15 +5,16 @@
 
 ## Narrative arc
 1. The problem is not awareness alone — it is conversion leakage.
-2. Two critical site surfaces are broken: contact form and class finder.
-3. Reframe the homepage around parent intent.
-4. Fix local SEO entity signals and old indexed URLs.
-5. Build organic demand capture pages.
+2. The contact form is now repaired; the remaining core site fixes should finish inside three days.
+3. Day two: make the class finder and parent path clear.
+4. Day three: fix entity signals, redirects, analytics, and QA.
+5. Then build organic demand capture pages.
 6. Turn social into proof.
-7. 90-day outcome: easier to find, easier to trust, easier to join.
+7. Add a voice chat agent only after verified school, schedule, teacher, location, hours, and policy content is ready.
+8. 90-day outcome: easier to find, easier to trust, easier to join.
 
 ## Visual language
-Control-room dashboard panels, parent journey funnel, red/amber/green repair states, 30/60/90 timeline, warm dance photography as proof layer, subtle motion.
+Control-room dashboard panels, parent journey funnel, red/amber/green repair states, three-day fix sprint, 30/60/90 growth timeline, optional voice-agent layer, warm dance photography as proof layer, subtle motion.
 
 ## Script
-GCDA does not need to buy attention first. It needs to stop losing the families already looking. The immediate issue is not the brand. It is the path from parent curiosity to enrollment. The contact form is not showing. The class finder is stuck loading. The homepage says passion meets technique, but a cold parent needs to see dance classes for kids and teens in Spanish Fort, a trial class path, real proof, and a clear next step. The growth plan starts with repair: make the form work, make classes visible, add a trial class call to action, add local schema, fix old indexed pages, and connect Google Search Console, GA4, Google Business Profile, and social analytics. Then we build demand capture: preschool dance, ballet, hip hop, acro, competitive company, summer classes, and a new family guide. Social becomes proof, not noise: teacher moments, student growth, recital energy, parent answers, and local community posts. Over ninety days, GCDA becomes easier to find, easier to trust, and easier to join. No ads until the organic engine and conversion path are working.
+GCDA's site repair should not take ninety days. The core website fixes happen in the first three days. Day one: the contact form renders, Netlify detects it, and every submission routes to info at GCDA Dance with Carlos copied through a second notification. Day two: the class finder gets a stable path, with either live classes or a clear fallback schedule, so parents can find the right fit without waiting on a spinner. Day three: the homepage, schema, redirects, social links, analytics, and production QA are tightened, so the site is measurable and ready for growth. After that, the thirty, sixty, and ninety day plan becomes true growth work: programme pages, Google Business Profile improvements, parent reviews, social proof, local partnerships, and a New Family Guide. A voice chat agent can help once the schedule, teachers, hours, location, and policy answers are locked to verified content. Used correctly, it reduces parent friction, answers after-hours questions, and captures more trial class intent. If the source data is not reliable, we leave it out until it is.

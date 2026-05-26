@@ -4,14 +4,14 @@
 Turn gcdadance.com from a polished brochure into a parent conversion engine.
 
 ## Required fixes
-1. Contact form must render and submit.
-2. Class finder must render real classes or a stable fallback.
-3. Homepage H1 must include audience + service + location.
-4. Add trial-class CTA above the fold.
-5. Add LocalBusiness/DanceSchool JSON-LD.
-6. Add social links and proof section.
-7. Redirect old indexed posts.
-8. Add program pages and a New Family Guide.
+1. Day 1: Contact form must render, submit through Netlify Forms, and notify info@gcdadance.com plus Carlos via a second notification.
+2. Day 2: Class finder must render real classes or a stable fallback schedule path.
+3. Day 2: Homepage H1 must include audience + service + location.
+4. Day 2: Add trial-class CTA above the fold.
+5. Day 3: Add LocalBusiness/DanceSchool JSON-LD.
+6. Day 3: Add social links and proof section.
+7. Day 3: Redirect old indexed posts and verify analytics/search tracking.
+8. Growth phase: Add program pages, a New Family Guide, and optional voice chat agent once source content is verified.
 
 ## New IA
 Home, Classes, Preschool/Tiny Dancers, Ballet, Hip-Hop, Acro/Tumbling, Tap + Jazz, Competitive Company, Summer/Seasonal Registration, New Family Guide, Faculty, Policies + FAQ, Contact / Trial Class.

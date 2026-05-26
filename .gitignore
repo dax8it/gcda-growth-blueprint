@@ -2,6 +2,5 @@
 .render-frames/
 node_modules/
 .netlify/
-
 __pycache__/
 *.pyc

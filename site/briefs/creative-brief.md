@@ -4,10 +4,10 @@
 A client-facing growth blueprint microsite and explainer video for Gulf Coast Dance Alliance, translating the SEO/UX/social audit into a clear action plan.
 
 ## Core problem
-GCDA is not primarily missing brand polish. It is losing parent demand because the conversion path and proof layer are weak: contact form not visible, class finder stuck loading, generic above-the-fold positioning, thin trust proof, missing local schema/social links, stale indexed URLs, and under-leveraged Instagram/Facebook/TikTok.
+GCDA is not primarily missing brand polish. It was losing parent demand because the conversion path and proof layer needed repair: the contact form path had to be restored, the class finder needs a stable fallback, the homepage must speak directly to parents, and local schema/social proof/review systems need to become measurable growth assets.
 
 ## Strategic thesis
-Before paid ads, repair the organic engine: make the site easier to use, make GCDA easier to trust, make each program easier to find in Google, turn social into local proof, and measure weekly before scaling.
+Before paid ads, repair the organic engine in under three days, then shift into growth: make the site easier to use, make GCDA easier to trust, make each program easier to find in Google, turn social into local proof, and measure weekly before scaling.
 
 ## Audience
 Primary: parents of children and teens in Spanish Fort / Eastern Shore evaluating dance programs. Secondary: current GCDA families who can produce reviews, referrals, and proof. Tertiary: schools, preschools, PTAs, community calendars, family blogs, and local partners.
