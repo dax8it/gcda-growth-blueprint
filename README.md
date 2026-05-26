@@ -1,6 +1,6 @@
 # GCDA Preschool Market Recovery Control Panel
 
-Client-facing control panel for recovering GCDA's Spanish Fort ages 2–6 dance market share. Includes SWOT, goal, immediate action plan, website/social creative strategy, pricing test hypothesis, and weekly control metrics.
+Client-facing control panel for recovering GCDA's Spanish Fort ages 2–6 dance market share. Updated with current published-site state, remaining gaps, next action items, website/social strategy, pricing test hypothesis, and weekly control metrics.
 
 ## Live URLs
 
